@@ -7,14 +7,16 @@
 
     <div class="hero-content">
 
-        <h1>Sweet Crumbs Bakery</h1>
+        <h1>Coffee Shop</h1>
 
-        <p>Freshly baked happiness everyday</p>
+        <p>Ngopi santai, suasana nyaman</p>
 
         <div class="hero-btn">
+
             <a href="#menu" class="btn-secondary">
                 View Menu
             </a>
+
         </div>
 
     </div>
@@ -24,11 +26,11 @@
 <!-- ABOUT -->
 <section class="about">
 
-    <h2>Our Bakery Story</h2>
+    <h2>Our Story</h2>
 
     <p>
-        Kami menghadirkan roti dan dessert premium
-        dengan bahan berkualitas dan rasa terbaik.
+        Kami menyajikan kopi berkualitas
+        dari biji pilihan terbaik.
     </p>
 
 </section>
@@ -36,7 +38,7 @@
 <!-- MENU -->
 <section class="menu" id="menu">
 
-    <h2>Our Best Menu</h2>
+    <h2>Menu</h2>
 
     <div class="grid">
 
@@ -45,12 +47,17 @@
             <div class="card">
 
                 <div class="card-img">
+
                     <img src="assets/images/<?= $m['gambar']; ?>">
+
                 </div>
 
                 <div class="card-body">
+
                     <h3><?= $m['nama']; ?></h3>
+
                     <p><?= $m['harga']; ?></p>
+
                 </div>
 
             </div>
@@ -61,18 +68,18 @@
 
 </section>
 
-<!-- BOOKING -->
+<!-- RESERVASI -->
 <section class="booking" id="booking">
 
     <div class="booking-container">
 
         <div class="booking-text">
 
-            <h2>Order Your Favorite Dessert</h2>
+            <h2>Reserve Your Table</h2>
 
             <p>
-                Nikmati berbagai pilihan roti dan dessert
-                fresh dari bakery kami.
+                Nikmati pengalaman ngopi terbaik bersama kami.
+                Booking sekarang dan rasakan suasana yang nyaman.
             </p>
 
         </div>
@@ -87,10 +94,10 @@
 
             <input type="time" required>
 
-            <input type="number" placeholder="Jumlah Pesanan" required>
+            <input type="number" placeholder="Jumlah Orang" required>
 
             <button type="submit">
-                Order Now
+                Book Now
             </button>
 
         </form>
