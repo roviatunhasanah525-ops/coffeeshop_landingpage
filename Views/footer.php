@@ -4,11 +4,11 @@
 
         <div class="footer-col">
 
-            <h3>Sweet Crumbs Bakery</h3>
+            <h3>Coffee Shop</h3>
 
             <p>
-                Bakery terbaik dengan roti fresh,
-                cake premium, dan dessert lezat setiap hari.
+                Tempat terbaik untuk menikmati kopi
+                dengan suasana nyaman dan santai.
             </p>
 
         </div>
@@ -19,7 +19,7 @@
 
             <p>📍 Bondowoso</p>
             <p>📞 0812-3456-7890</p>
-            <p>✉️ bakery@sweetcrumbs.com</p>
+            <p>✉️ coffee@shop.com</p>
 
         </div>
 
@@ -27,8 +27,8 @@
 
             <h4>Open Hours</h4>
 
-            <p>Mon - Fri: 08.00 - 21.00</p>
-            <p>Sat - Sun: 09.00 - 22.00</p>
+            <p>Mon - Fri: 08.00 - 22.00</p>
+            <p>Sat - Sun: 10.00 - 23.00</p>
 
         </div>
 
@@ -57,10 +57,13 @@
     <div class="footer-bottom">
 
         <p>
-            © 2026 Sweet Crumbs Bakery |
+            © 2026 Coffee Shop |
             All Rights Reserved
         </p>
 
     </div>
 
 </footer>
+
+</body>
+</html>
