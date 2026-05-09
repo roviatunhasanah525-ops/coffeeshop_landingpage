@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 
-    <title>Sweet Crumbs Bakery</title>
+    <title>Coffee Shop</title>
 
     <link rel="stylesheet" href="assets/css/style.css">
 
