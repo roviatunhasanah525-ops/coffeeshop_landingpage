@@ -7,39 +7,21 @@ class Menu {
         return [
 
             [
-                "nama" => "Croissant",
-                "harga" => "18K",
-                "gambar" => "croissant.jpg"
+                "nama" => "Cappuccino",
+                "harga" => "25K",
+                "gambar" => "coffee.jpeg"
             ],
 
             [
-                "nama" => "Chocolate Cake",
-                "harga" => "35K",
-                "gambar" => "cake.jpg"
-            ],
-
-            [
-                "nama" => "Strawberry Tart",
+                "nama" => "Latte",
                 "harga" => "28K",
-                "gambar" => "tart.jpg"
+                "gambar" => "coffee.jpeg"
             ],
 
             [
-                "nama" => "Donut Glazed",
-                "harga" => "15K",
-                "gambar" => "donut.jpg"
-            ],
-
-            [
-                "nama" => "Cinnamon Roll",
-                "harga" => "22K",
-                "gambar" => "roll.jpg"
-            ],
-
-            [
-                "nama" => "Macaron Box",
-                "harga" => "40K",
-                "gambar" => "macaron.jpg"
+                "nama" => "Espresso",
+                "harga" => "20K",
+                "gambar" => "coffee.jpeg"
             ]
 
         ];
